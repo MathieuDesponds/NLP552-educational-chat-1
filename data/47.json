@@ -1,0 +1,1064 @@
+[
+    {
+        "choices": [
+            "Distance to the receiving coil",
+            "Distance from the transmission coil",
+            "Varying magnetic field across the patient",
+            "Varying amplitude of RF pulse"
+        ],
+        "course_id": 15016,
+        "question": "Spatial localization in MRI primarily relies on...",
+        "question_id": 32250
+    },
+    {
+        "choices": [
+            "The detection ring used in PET and SPECT are different",
+            "PET scan begins with the administration of a radiopharmaceutical",
+            "PET scan requires a longer time for data collection",
+            "PET scan uses positron-emitting radioisotope instead of single-photon emitters"
+        ],
+        "course_id": 15051,
+        "question": "What is the main difference between PET and SPECT?",
+        "question_id": 37072
+    },
+    {
+        "choices": [
+            "Using the known \\(T_1\\) value",
+            "With Fourier series",
+            "With Fourier transform",
+            "With Radon transform"
+        ],
+        "course_id": 15016,
+        "question": "How to distinguish different frequencies in a signal?",
+        "question_id": 32268
+    },
+    {
+        "choices": [
+            "Temporal resolution",
+            "Energy resolution",
+            "Contrast resolution",
+            "Spatial resolution"
+        ],
+        "course_id": 15051,
+        "question": "Which resolution is improved with CT over projection radiography?",
+        "question_id": 37151
+    },
+    {
+        "choices": [
+            "1 Hz",
+            "10 Hz",
+            "100 Hz",
+            "1000 Hz"
+        ],
+        "course_id": 15033,
+        "question": "The unsymmetrical two-site exchange A - B has an equilibrium constant K = 0.01. Under slow exchange conditions, the linewidth of a nucleus in species A is 1.0 Hz. What is the linewidth of the corresponding nucleus in species B?",
+        "question_id": 34877
+    },
+    {
+        "choices": [
+            "\\(t_{m} = \\frac{2}{k}\\)",
+            "\\(t_{m} = \\frac{1}{k}\\)",
+            "\\(t_{m} = \\frac{1}{2k}\\)"
+        ],
+        "course_id": 15051,
+        "question": "What is the optimal measurement time \\(t_{m}\\) if a signal \\(S\\) is given in function of time and the tissue property \\(k\\)?",
+        "question_id": 37056
+    },
+    {
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "course_id": 15033,
+        "question": "How many distinct chemical shifts would you expect to find in the 13C spectrum of pentane?",
+        "question_id": 34890
+    },
+    {
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "course_id": 15051,
+        "question": "Let's consider two media: the speed of sound in the two media is different and impedances of these two media are identical. A sound pulse reaches the boundary between these two media with normal incidence. Does the reflection occur?",
+        "question_id": 37165
+    },
+    {
+        "choices": [
+            "Increasing k-space spacing - leads to worse resolution",
+            "Dropping peripheral k-space lines (dropping scan percentage) – leads to smaller FOV",
+            "Half-Fourier acquisition – leads to worse resolution",
+            "Reducing phase-encoding steps leads to worse SNR"
+        ],
+        "course_id": 15055,
+        "question": "What is true about reducing phase-encoding steps? (i.e how can we reduce phase encoding step and what is its effect)",
+        "question_id": 37558
+    },
+    {
+        "choices": [
+            "It helps to automatically remove artifacts and blurring",
+            "It reconstructs the images from helical to axial orientation",
+            "It doubles the amount of scan data",
+            "It records data to compute the dose used for the scan"
+        ],
+        "course_id": 15051,
+        "question": "What is the goal of filterback projection?",
+        "question_id": 37071
+    },
+    {
+        "choices": [
+            "Two balanced gradients spaced in time",
+            "Triphasic flow compensation gradients",
+            "An inversion pulse",
+            "Two inversion pulses"
+        ],
+        "course_id": 15016,
+        "question": "The diffusion weighting in diffusion-weighted images is created by means of...",
+        "question_id": 32299
+    },
+    {
+        "choices": [
+            "To improve contrast resolution.",
+            "To have better spatial resolution.",
+            "Because otherwise the formation of image would be impossible.",
+            "To limit patient exposure."
+        ],
+        "course_id": 15013,
+        "question": "In SPECT, why is beam collimation employed?",
+        "question_id": 31592
+    },
+    {
+        "course_id": 15033,
+        "question": "Which of the protons in 1,3-dinitrobenzene has the longest spin–lattice relaxation time? (H1-H2-H3-H4-H5-H6)",
+        "question_id": 34911
+    },
+    {
+        "choices": [
+            "Faster throughput",
+            "Improved spatial resolution",
+            "Decreased patient dose",
+            "Improved contrast resolution"
+        ],
+        "course_id": 15013,
+        "question": "What is the principle advantage of CT imaging over other X-ray imaging?",
+        "question_id": 31638
+    },
+    {
+        "choices": [
+            "1H",
+            "3H",
+            "98Tc",
+            "12C",
+            "13C"
+        ],
+        "course_id": 15033,
+        "question": "What are the most common nuclei used in NMR?",
+        "question_id": 34896
+    },
+    {
+        "choices": [
+            "high pass filter",
+            "band-pass filter",
+            "low pass filter"
+        ],
+        "course_id": 15013,
+        "question": "One method to improve the SNR after data acquisition is to apply a __________ to the image.",
+        "question_id": 31513
+    },
+    {
+        "choices": [
+            "\\(t_{m} = \\frac{2}{k}\\)",
+            "\\(t_{m} = \\frac{1}{k}\\)",
+            "\\(t_{m} = \\frac{1}{2k}\\)"
+        ],
+        "course_id": 15013,
+        "question": "What is the optimal measurement time \\(t_{m}\\) if a signal \\(S\\) is given in function of time and the tissue property \\(k\\)?",
+        "question_id": 31526
+    },
+    {
+        "choices": [
+            "It increases",
+            "It decreases",
+            "It does not change"
+        ],
+        "course_id": 15013,
+        "question": "When one starts thinking, it is observed that the blood flow in the brain increases. If we consider that the metabolic rate of glucose (glucose consumption) stays (almost) constant, what happens to the glucose concentration coming out of the brain?",
+        "question_id": 31639
+    },
+    {
+        "choices": [
+            "Propagation speeds in the media",
+            "US frequencies",
+            "Attenuation coefficients",
+            "None of the above"
+        ],
+        "course_id": 15013,
+        "question": "Which of the factors below may affect refraction of ultrasound with normal incidence?",
+        "question_id": 31560
+    },
+    {
+        "choices": [
+            "2H",
+            "12C",
+            "17O",
+            "235U"
+        ],
+        "course_id": 15033,
+        "question": "Which nuclide are you not able \"to see\" by NMR?",
+        "question_id": 34907
+    },
+    {
+        "choices": [
+            "\\( \\frac{K_1 C_0}{k_3-\\lambda} (e^{-k_3 t}-e^{-\\lambda t}) \\)",
+            "\\( \\frac{K_1 C_0}{k_3+\\lambda} (e^{-\\lambda t}-e^{-k_3 t}) \\)",
+            "\\( \\frac{K_1 C_0}{k_3-\\lambda} (e^{-\\lambda t}-e^{-k_3 t}) \\)",
+            "\\( \\frac{K_1 C_0}{k_3+\\lambda} (e^{-k_3 t}-e^{-\\lambda t}) \\)"
+        ],
+        "course_id": 15051,
+        "question": "We give the differential equation that describes the one-tissue compartment model : \\( \\frac{dC_T^*}{dt} = K_1 C_S^*(t)-k_3C_T^*(t)\\) [Eq.1] . The case where \\(C_s^*(t)\\) is increased from 0 to \\( \\alpha\\) at \\( t=0\\) is studied in the lecture. We are interested in the following case : \\( C_s^*(t)=0 \\) for \\( t\\) strictly smaller than \\( 0\\) and  \\(C_s^*(t)=C_0 \\cdot e^{-\\lambda t} \\) for \\( t\\geq 0\\) . The initial condition is \\(C_T^*(0)=0\\).  What is the solution \\(C_T^*(t)\\) of the differential equation (Eq.1), with this new \\(C_s^*(t)\\) ?",
+        "question_id": 37116
+    },
+    {
+        "choices": [
+            "Compton electrons.",
+            "Photoelectrons.",
+            "Compton scattered photons.",
+            "Rayleigh scattering"
+        ],
+        "course_id": 15051,
+        "question": "During fluoroscopy, what is the principal source of the dose received by the technologist (outside the primary beam)?",
+        "question_id": 37073
+    },
+    {
+        "choices": [
+            "Normal incidence and different impedances",
+            "Oblique incidence and identical impedances",
+            "Normal incidence and different propagation speeds",
+            "Oblique incidence and different propagation speeds"
+        ],
+        "course_id": 15013,
+        "question": "Refraction only occurs if there is :",
+        "question_id": 31615
+    },
+    {
+        "choices": [
+            "\\(T_2\\) is caused by atomic/molecular interactions",
+            "\\(T_2^*\\) is the result of the combination of main magnetic field inhomogeneities and atomic/molecular interactions.",
+            "\\(T_2\\) represents the combination of static magnetic field inhomogeneity and varying molecular magnetic field inhomogeneities."
+        ],
+        "course_id": 15016,
+        "question": "Which of the following is/are true concerning \\(T_2\\) and \\(T_2^*\\)?",
+        "question_id": 32307
+    },
+    {
+        "choices": [
+            "Photoelectric effet",
+            "Scattering",
+            "Radioactive decay",
+            "Pair production"
+        ],
+        "course_id": 15051,
+        "question": "",
+        "question_id": 37157
+    },
+    {
+        "choices": [
+            "A data set representing X-ray attenuation in the patient",
+            "The way the X-ray beam is projected on the patient",
+            "The mathematics of image reconstruction"
+        ],
+        "course_id": 15013,
+        "question": "What does the term \"projection\" refer to, when considering CT?",
+        "question_id": 31565
+    },
+    {
+        "choices": [
+            "The electron removed from the atom",
+            "The scattered X-ray",
+            "The K-shell electron"
+        ],
+        "course_id": 15013,
+        "question": "In Compton interactions, the majority of the incoming photon energy is retained by...",
+        "question_id": 31598
+    },
+    {
+        "choices": [
+            "... is approximately doubled",
+            "... is approximately the same",
+            "... is approximately divided by two",
+            "... depends on the photon energy"
+        ],
+        "course_id": 15013,
+        "question": "The number of Compton interactions in one gram of calcium compared to one gram of carbon ...",
+        "question_id": 31578
+    },
+    {
+        "choices": [
+            "RF pulse converter",
+            "Fourier transform",
+            "Electron precession equations",
+            "Laplace transform"
+        ],
+        "course_id": 15055,
+        "question": "What does an MRI system use to convert mathematical data into a picture?",
+        "question_id": 37498
+    },
+    {
+        "choices": [
+            "... increases as energy increases.",
+            "... is independent of energy.",
+            "... is inversely proportional to the atomic number.",
+            "None of the above."
+        ],
+        "course_id": 15051,
+        "question": "The probability of a Compton interaction per unit mass...",
+        "question_id": 37062
+    },
+    {
+        "choices": [
+            "meta > para > ortho",
+            "ortho > para > meta",
+            "ortho > meta > para",
+            "para > meta > ortho"
+        ],
+        "course_id": 15033,
+        "question": "Predict which of the ortho, meta, and para protons in methoxybenzene has the highest and which the lowest 1H chemical shift (from highest to lowest)",
+        "question_id": 34876
+    },
+    {
+        "choices": [
+            "A 90-degree pulse",
+            "A 180-degree pulse",
+            "A 270-degree pulse"
+        ],
+        "course_id": 15016,
+        "question": "In inversion recovery pulse sequence, what is the pulse added before the conventional spin echo?",
+        "question_id": 32221
+    },
+    {
+        "course_id": 15016,
+        "question": "Considering the Einstein Random walk for a given self diffusion coefficient, the root mean square displacement after \\(\\Delta=0.2\\) seconds is \\(50 \\mu m\\). What will it be after \\( \\Delta=0.8\\)s? (Give the answer in \\( \\mu m\\). )",
+        "question_id": 32274
+    },
+    {
+        "choices": [
+            "There is no proton.",
+            "There is no water molecule.",
+            "None of the above answers."
+        ],
+        "course_id": 15055,
+        "question": "Why do you think bones and teeth are not seen on MRI?",
+        "question_id": 37527
+    },
+    {
+        "choices": [
+            "The maximum amplitude in the signal",
+            "The maximum phase shift in the signal",
+            "The maximum frequency in the signal",
+            "The desired frequency resolution",
+            "It doesn't matter"
+        ],
+        "course_id": 15055,
+        "question": "What is the main parameter to consider when digitizing a signal and its sampling frequency?",
+        "question_id": 37484
+    },
+    {
+        "choices": [
+            "Microseconds",
+            "Milliseconds",
+            "Nanoseconds"
+        ],
+        "course_id": 15055,
+        "question": "TR and TE stand for 'repetition time' and 'echo time' and are basic pulse sequence parameters. They are measured typically in...",
+        "question_id": 37555
+    },
+    {
+        "choices": [
+            "Photoelectric effect",
+            "Filter",
+            "Photodisintegration",
+            "Rayleigh (coherent) scattering"
+        ],
+        "course_id": 15051,
+        "question": "What produces a uniform density of the radiograph called image noise?",
+        "question_id": 37050
+    },
+    {
+        "choices": [
+            "Characteristic",
+            "Compton's scatter",
+            "Bremsstrahlung",
+            "Photoelectric effect"
+        ],
+        "course_id": 15051,
+        "question": "Which interaction between X-ray beam and matter results in the largest patient dose?",
+        "question_id": 37080
+    },
+    {
+        "choices": [
+            "Because the formulas were developped historically considering rotating frame.",
+            "To simplify the complex motion of precessing spins.",
+            "It is the international standard."
+        ],
+        "course_id": 15055,
+        "question": "Why using a rotating reference frame to describe motion of magnetization?",
+        "question_id": 37479
+    },
+    {
+        "choices": [
+            "Propagation speeds in the media",
+            "US frequencies",
+            "Attenuation coefficients",
+            "None of the above"
+        ],
+        "course_id": 15051,
+        "question": "Which of the factors below may affect refraction of ultrasound with normal incidence?",
+        "question_id": 37090
+    },
+    {
+        "choices": [
+            "Photoelectric effet",
+            "Scattering",
+            "Radioactive decay",
+            "Pair production"
+        ],
+        "course_id": 15013,
+        "question": "",
+        "question_id": 31627
+    },
+    {
+        "choices": [
+            "low absolute binding energy",
+            "scattered",
+            "high absolute binding energy"
+        ],
+        "course_id": 15051,
+        "question": "During Compton scattering, a photon has more chance to interact with ________________ electrons.",
+        "question_id": 37059
+    },
+    {
+        "choices": [
+            "Coherent scattering.",
+            "Photoelectric effect.",
+            "Compton effect.",
+            "Pair production."
+        ],
+        "course_id": 15051,
+        "question": "In diagnostic X-ray systems, filters are used to \"harden\" the beam. This process is mainly due to:",
+        "question_id": 37084
+    },
+    {
+        "choices": [
+            "Filtering",
+            "Interpolation",
+            "Convolution",
+            "Summation"
+        ],
+        "course_id": 15013,
+        "question": "What is the mathematical technique that involves the estimation of an unknown value from values on either side of?",
+        "question_id": 31594
+    },
+    {
+        "choices": [
+            "The inadequate sampling resolution that leads to frequency or phase misregistration.",
+            "Frequency misregistration related to gyromagnetic differences.",
+            "K-space undersampling.",
+            "Blurred image due to patient motion."
+        ],
+        "course_id": 15016,
+        "question": "What does \"aliasing\" refers to?",
+        "question_id": 32230
+    },
+    {
+        "choices": [
+            "bismuth germanate (BGO)",
+            "lutetium oxyorthosilicate (LSO)",
+            "gadolinium silicate (GSO)",
+            "sodium iodide",
+            "all of the above",
+            "only a few of the above"
+        ],
+        "course_id": 15013,
+        "question": "The scintillation crystals in PET scanners are commonly made of:",
+        "question_id": 31534
+    },
+    {
+        "choices": [
+            "The echo can be recorded much more quickly in a GRE sequence",
+            "Chemical shifts are cancelled at the center of the GRE as they are in SE sequences",
+            "A spin echo is produced by two successive RF pulses whereas gradient echo is produced by one single RF pulse and a gradient reversal."
+        ],
+        "course_id": 15016,
+        "question": "Note: Make sure you select all of the correct options—there may be more than one!",
+        "question_id": 32252
+    },
+    {
+        "choices": [
+            "\\(\\frac{2\\pi}{\\gamma B_1}\\)",
+            "\\(\\frac{\\pi}{2\\gamma B_1}\\)",
+            "\\(\\frac{\\gamma B_1}{2\\pi}\\)",
+            "\\(\\frac{\\pi}{\\gamma B_1}\\)"
+        ],
+        "course_id": 15016,
+        "question": "For what time should be applied the tranverse (xy-plane) constant magnetic field \\(\\vec B_1\\) in order to have a flip of the magnetiztion of 90° ?",
+        "question_id": 32233
+    },
+    {
+        "choices": [
+            "\\(\\frac{2\\pi}{\\gamma B_1}\\)",
+            "\\(\\frac{\\pi}{2\\gamma B_1}\\)",
+            "\\(\\frac{\\gamma B_1}{2\\pi}\\)",
+            "\\(\\frac{\\pi}{\\gamma B_1}\\)"
+        ],
+        "course_id": 15055,
+        "question": "For what time should be applied the tranverse (xy-plane) constant magnetic field \\(\\vec B_1\\) in order to have a flip of the magnetiztion of 90° ?",
+        "question_id": 37485
+    },
+    {
+        "choices": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "course_id": 15033,
+        "question": "Predict the total number of lines in the 1H spectrum of 1,1-dichlorocyclopropane",
+        "question_id": 34879
+    },
+    {
+        "choices": [
+            "Bone",
+            "Water",
+            "Muscle",
+            "Fat"
+        ],
+        "course_id": 15013,
+        "question": "Which one of the following has the greatest amount of attenuation?",
+        "question_id": 31631
+    },
+    {
+        "choices": [
+            "When energy is emitted and transferred through matter.",
+            "When energy is emitted and transferred through light or particles.",
+            "When energy is emitted but not transferred through light."
+        ],
+        "course_id": 15013,
+        "question": "What is called \"radiation\"?",
+        "question_id": 31528
+    },
+    {
+        "choices": [
+            "Smaller field of view",
+            "Smaller matrix size",
+            "Smaller voxel size",
+            "Higher mAs"
+        ],
+        "course_id": 15051,
+        "question": "Which of the following factors decreases contrast resolution?",
+        "question_id": 37083
+    },
+    {
+        "choices": [
+            "At the time when diffusion-weighted imaging was discovered, gradient-echo was not yet invented.",
+            "The spin-echo sequence refocuses phase differences which are due to external magnetic field inhomogeneities.",
+            "The spin-echo sequence is faster which is important because the whole volume needs to be imaged many times.",
+            "We don't use spin-echo but gradient-echo sequences."
+        ],
+        "course_id": 15016,
+        "question": "Diffusion MRI has become a very helpful clinical tool, e.g. for diagnosis of stroke. It uses the fact that some cell structures hinder the diffusion of water protons in a non-isotropic way, i.e. forcing them to preferably diffuse in a specific direction.",
+        "question_id": 32261
+    },
+    {
+        "choices": [
+            "RF pulse converter",
+            "Fourier transform",
+            "Electron precession equations",
+            "Laplace transform"
+        ],
+        "course_id": 15016,
+        "question": "What does an MRI system use to convert mathematical data into a picture?",
+        "question_id": 32246
+    },
+    {
+        "choices": [
+            "Detects the relative increase of oxyhemoglobin with respect to deoxyhemoglobin in neuronal areas activated.",
+            "Is used primarily in structural imaging",
+            "Is directly related to the concentration of deoxy-hemoglobin"
+        ],
+        "course_id": 15055,
+        "question": "Note: Make sure you select all of the correct options—there may be more than one!",
+        "question_id": 37548
+    },
+    {
+        "choices": [
+            "Flow",
+            "Cardiac output",
+            "Velocity",
+            "Speed"
+        ],
+        "course_id": 15051,
+        "question": "What information does a Doppler shift provide?",
+        "question_id": 37130
+    },
+    {
+        "choices": [
+            "spatial resolution",
+            "artifact generation",
+            "z-axis resolution",
+            "patient dose"
+        ],
+        "course_id": 15013,
+        "question": "Note: be sure you selected all the possible answers, there may be more than one.",
+        "question_id": 31624
+    },
+    {
+        "choices": [
+            "Scattered",
+            "\\(\\beta\\)-radiation",
+            "Characteristic",
+            "Photoelectric"
+        ],
+        "course_id": 15051,
+        "question": "The type radiation emitted when an electron drops from an outer-shell to an inner-shell is:",
+        "question_id": 37158
+    },
+    {
+        "choices": [
+            "Carbon 12 is not an isotope of carbon",
+            "Spin = 0",
+            "Spin = -1",
+            "Spin = 1/2"
+        ],
+        "course_id": 15033,
+        "question": "Why is it not possible to record a signal of 12C in NMR?",
+        "question_id": 34899
+    },
+    {
+        "choices": [
+            "Tomography",
+            "Iterative reconstruction",
+            "Fourier transform",
+            "Selective excitation",
+            "Radon transform"
+        ],
+        "course_id": 15016,
+        "question": "Within-slice signal localization in MRI is performed with",
+        "question_id": 32226
+    },
+    {
+        "course_id": 15013,
+        "question": "What percentage of energy is transferred in a Compton interaction considering a deflection of zero degrees from the incident photon?",
+        "question_id": 31613
+    },
+    {
+        "choices": [
+            "Bioimaging allows longitudinal studies, which increases statistical power.",
+            "Repetitive studies are possible and allow observing the evolution in the same subject.",
+            "Bioimaging is non invasive.",
+            "The structure of tissues can be described more precisely.",
+            "The image acquisition is fairly fast."
+        ],
+        "course_id": 15051,
+        "question": "What are the advantages of bio-imaging compared to tissue analysis? Make sure you select all of the correct options — there may be more than one!",
+        "question_id": 37125
+    },
+    {
+        "choices": [
+            "Using the known \\(T_1\\) value",
+            "With Fourier series",
+            "With Fourier transform",
+            "With Radon transform"
+        ],
+        "course_id": 15055,
+        "question": "How to distinguish different frequencies in a signal?",
+        "question_id": 37520
+    },
+    {
+        "choices": [
+            "A beta camera",
+            "A coincidence-imaging device"
+        ],
+        "course_id": 15051,
+        "question": "What does detect a 511-keV photon effectively?",
+        "question_id": 37082
+    },
+    {
+        "choices": [
+            "The excess of protons spins parallel to \\(\\vec B_0\\) disappears.",
+            "Proton spins precess in phase.",
+            "All of the above"
+        ],
+        "course_id": 15055,
+        "question": "In a \"90 degree impulsion\" when the RF pulse is applied...",
+        "question_id": 37523
+    },
+    {
+        "choices": [
+            "During excitation",
+            "During slice-selection",
+            "During frequency-encoding",
+            "Prior to readout",
+            "During readout"
+        ],
+        "course_id": 15016,
+        "question": "When is the phase-encoding gradient turned on?",
+        "question_id": 32301
+    },
+    {
+        "choices": [
+            "X-rays pass through the patient then fall onto special detectors.",
+            "The detectors measure the transmission values or attenuation values.",
+            "Values data are recorded to meet the requirements of the reconstruction process."
+        ],
+        "course_id": 15013,
+        "question": "Note: be sure you selected all the possible answers, there may be more than one!",
+        "question_id": 31561
+    },
+    {
+        "choices": [
+            "When energy is emitted and transferred through matter.",
+            "When energy is emitted and transferred through light or particles.",
+            "When energy is emitted but not transferred through light."
+        ],
+        "course_id": 15051,
+        "question": "What is called \"radiation\"?",
+        "question_id": 37058
+    },
+    {
+        "choices": [
+            "...both the electron and positron lose energy and are attenuated.",
+            "...two 511-keV photons traveling in opposite directions are released.",
+            "...two photons are released at 90 degrees to each other.",
+            "None of the above."
+        ],
+        "course_id": 15013,
+        "question": "After annihilation of a positron by an electron...",
+        "question_id": 31516
+    },
+    {
+        "choices": [
+            "...image gene expression.",
+            "...measure a lot of different biochemical transformations.",
+            "...measure different kind of enzymatic reaction."
+        ],
+        "course_id": 15013,
+        "question": "At cellular level, PET technique can be used to...",
+        "question_id": 31555
+    },
+    {
+        "choices": [
+            "In the radionuclide emitting the positron",
+            "At a short distance from the radionuclide"
+        ],
+        "course_id": 15051,
+        "question": "Where does the annihilation of positron and electron take place?",
+        "question_id": 37153
+    },
+    {
+        "choices": [
+            "Gadolinium chelates slow \\(T_1\\) recovery of water molecules by interacting with the water and changing the rotational speeds of the hydrogen atoms",
+            "Gadolinium has a short \\(T_1\\) value",
+            "The hydrogen atoms in the chelation groups of the contrast agent have a short \\(T_1\\) value",
+            "Gadolinium chelates speed \\(T_1\\) recovery of water molecules by interacting with the water and changing the rotational speeds of the hydrogen atoms"
+        ],
+        "course_id": 15055,
+        "question": "A tumor that enhances with gadolinium contrast is bright on \\(T_1\\)-weighted images because...",
+        "question_id": 37493
+    },
+    {
+        "choices": [
+            "A beta camera composed of PMT and scintillating crystal",
+            "A measure at 180 degrees simultaneously",
+            "An x-ray tube and a circular detector ring",
+            "Collimation, scintillation and amplification"
+        ],
+        "course_id": 15051,
+        "question": "X-ray detection in Emission Tomography involves...",
+        "question_id": 37119
+    },
+    {
+        "choices": [
+            "It helps to detect complex molecules",
+            "It is the best technique to detect impurities in samples.",
+            "It is a useful technique for the analysis of samples"
+        ],
+        "course_id": 15055,
+        "question": "Why do you think NMR spectroscopy is important for biochemists?",
+        "question_id": 37557
+    },
+    {
+        "choices": [
+            "Image reconstruction, electron beam manipulation and microwave attenuation",
+            "Image display, anatomical border construction and microwave display of structures",
+            "Data acquisition, image reconstruction, and image display",
+            "None of the above"
+        ],
+        "course_id": 15013,
+        "question": "Which three steps are involved in the formation of CT?",
+        "question_id": 31634
+    },
+    {
+        "choices": [
+            "along the frequency-encoding axis",
+            "along the phase-encoding axis",
+            "along the slice-selection axis"
+        ],
+        "course_id": 15055,
+        "question": "Comparing fat and water signals in NMR, fat signal is shifted...",
+        "question_id": 37475
+    },
+    {
+        "choices": [
+            "Different names for the same frequency",
+            "Two different frequencies"
+        ],
+        "course_id": 15016,
+        "question": "Natural frequency of precession and Larmor frequency are...",
+        "question_id": 32270
+    },
+    {
+        "choices": [
+            "Increased contrast resolution",
+            "Decreased contrast resolution",
+            "Improved image quality"
+        ],
+        "course_id": 15013,
+        "question": "What is the effect of increased image noise?",
+        "question_id": 31601
+    },
+    {
+        "choices": [
+            "Rayleigh (coherent) scattering",
+            "Photodisintegration",
+            "Compton effect"
+        ],
+        "course_id": 15013,
+        "question": "How is called a change in the direction of the x-ray with no change in its energy?",
+        "question_id": 31522
+    },
+    {
+        "choices": [
+            "An extra 90° pulse",
+            "Spin-lattice interactions",
+            "Dependence on the homogeneities of the main magnetic field",
+            "A longer TE"
+        ],
+        "course_id": 15016,
+        "question": "What is the difference of \\(T_2^*\\) compared to \\(T_2\\)?",
+        "question_id": 32302
+    },
+    {
+        "choices": [
+            "Preacquisition of a (known) external radioactive source to be used for attenuation",
+            "Utilizing CT images for attenuation correction",
+            "Both of the above"
+        ],
+        "course_id": 15051,
+        "question": "In PET, how can the attenuation correction be performed?",
+        "question_id": 37061
+    },
+    {
+        "choices": [
+            "Spin echo sequence",
+            "Gradient echo sequence"
+        ],
+        "course_id": 15016,
+        "question": "With which type of MRI imaging sequence are \\(T_2^*\\) effects mainly reversed?",
+        "question_id": 32289
+    },
+    {
+        "choices": [
+            "...linked with their metabolic activity.",
+            "...increased in malignant cells because they have higher glucose consumption due to upregulation of hexokinase activity.",
+            "...increased in malignant cells due to increased glucose transport.",
+            "...increased in activated inflammatory cells, which have increased glucose transport."
+        ],
+        "course_id": 15013,
+        "question": "Note: Make sure you select all of the correct options—there may be more than one!",
+        "question_id": 31606
+    },
+    {
+        "choices": [
+            "An analog image",
+            "A linear image",
+            "A digital image",
+            "An image in time",
+            "A curvilinear image"
+        ],
+        "course_id": 15013,
+        "question": "After image reconstruction, Computed Tomography (CT) results in...",
+        "question_id": 31514
+    },
+    {
+        "choices": [
+            "Increased aperture size",
+            "Decreased aperture size",
+            "Decreased miliampere-seconds (mAs)",
+            "Increased filtration"
+        ],
+        "course_id": 15051,
+        "question": "Which of the following increases the signal-to-noise ratio of a CT image?",
+        "question_id": 37063
+    },
+    {
+        "choices": [
+            "into amplitudes and reported by their phase",
+            "into frequencies and reported by their amplitudes",
+            "into amplitudes and reported by their frequencies",
+            "into phases and reported by their amplitudes"
+        ],
+        "course_id": 15016,
+        "question": "In what manner does the Fourier transform analyze signals? The samples over time are separated...",
+        "question_id": 32291
+    },
+    {
+        "choices": [
+            "Faster throughput",
+            "Improved spatial resolution",
+            "Decreased patient dose",
+            "Improved contrast resolution"
+        ],
+        "course_id": 15051,
+        "question": "What is the principle advantage of CT imaging over other X-ray imaging?",
+        "question_id": 37168
+    },
+    {
+        "choices": [
+            "Relaxation time \\(T_1\\)",
+            "Relaxation time \\(T_2\\)",
+            "Gyromagnetic ratio",
+            "Precession frequency"
+        ],
+        "course_id": 15016,
+        "question": "Protons in different molecules differ in all of the following ways except...",
+        "question_id": 32220
+    },
+    {
+        "choices": [
+            "1: C(Cl3)-CH2-C(Cl3) and 2: C(Cl3)-CHCl-CH(Cl2)",
+            "1: C(Cl3)-CHCl-CH(Cl2) and 2: C(Cl3)-C(Cl2)-CH2(Cl)",
+            "1: C(Cl3)-C(Cl2)-CH2(Cl) and 2:C(Cl3)-CHCl-CH(Cl2)",
+            "1: C(Cl3)=C=C(Cl3) and 2: C(Cl3)-CH2-C(Cl3)"
+        ],
+        "course_id": 15033,
+        "question": "1H and 13C NMR spectra were recorded for two isomers of C3H2Cl6. Both 13C spectra contain peaks at three distinct chemical shifts. Isomer 1 has one distinct 1H chemical shift and isomer 2 has two. Deduce the structures of the two compounds.",
+        "question_id": 34895
+    },
+    {
+        "choices": [
+            "transmitting frequency",
+            "oscillator frequency",
+            "reflected US speed",
+            "Doppler shift"
+        ],
+        "course_id": 15051,
+        "question": "Doppler signal processing derives the:",
+        "question_id": 37055
+    },
+    {
+        "choices": [
+            "A radio wave applied for a small amount of time",
+            "A magnetic field gradient",
+            "A magnetic field oscillating at radiofrequency"
+        ],
+        "course_id": 15016,
+        "question": "What is a RF pulse?",
+        "question_id": 32288
+    },
+    {
+        "choices": [
+            "proportional to",
+            "independent of",
+            "inversely proportional to",
+            "depending on"
+        ],
+        "course_id": 15051,
+        "question": "The probability of a Compton interaction per unit mass is _____________ the atomic number of the atom involved.",
+        "question_id": 37088
+    },
+    {
+        "choices": [
+            "Scatter radiation",
+            "Photoelectric effect",
+            "Pair production",
+            "Collimation",
+            "Low kVp"
+        ],
+        "course_id": 15051,
+        "question": "The principal cause of reduced contrast in projection radiography is...",
+        "question_id": 37117
+    },
+    {
+        "choices": [
+            "into amplitudes and reported by their phase",
+            "into frequencies and reported by their amplitudes",
+            "into amplitudes and reported by their frequencies",
+            "into phases and reported by their amplitudes"
+        ],
+        "course_id": 15055,
+        "question": "In what manner does the Fourier transform analyze signals? The samples over time are separated...",
+        "question_id": 37543
+    },
+    {
+        "choices": [
+            "The chemical shift of the reference compound is equal to 0",
+            "The chemical shift of the reference compound is equal to 1",
+            "The chemical shift increases with increasing electronegativity",
+            "The chemical shift decreases with increasing electronegativity",
+            "There is no strict correlation between electronegativity and chemical shift."
+        ],
+        "course_id": 15016,
+        "question": "Which of the following sentences is (are) correct ?",
+        "question_id": 32228
+    },
+    {
+        "choices": [
+            "X-rays",
+            "CT (Computed tomography)",
+            "MRI (Magnetic resonance imaging)",
+            "US (Ultrasounds)",
+            "PET (Positron emission tomography)",
+            "SPECT (Single photon emission computed tomography)"
+        ],
+        "course_id": 15055,
+        "question": "Which of the following imaging modalities is/are ionizing?",
+        "question_id": 37490
+    },
+    {
+        "choices": [
+            "Increasing matrix size",
+            "Increasing field of view (FOV)",
+            "Increasing mAs",
+            "Increasing scan time",
+            "Increasing detector quantum efficiency",
+            "Increasing slice thickness",
+            "Increasing K (maximum voltage applied across an X-ray tube)"
+        ],
+        "course_id": 15051,
+        "question": "Which ones in the list below increase CT signal-to-noise ratio (SNR)?",
+        "question_id": 37107
+    },
+    {
+        "choices": [
+            "Decrease in dose",
+            "Decrease in slice thickness",
+            "Increase in matrix size",
+            "Decrease in matrix size"
+        ],
+        "course_id": 15051,
+        "question": "Which of the following decreases the noise of the CT image?",
+        "question_id": 37104
+    },
+    {
+        "choices": [
+            "1H",
+            "13C",
+            "14N",
+            "15N"
+        ],
+        "course_id": 15033,
+        "question": "A nuclide has a NMR frequency of 76 MHz in a 17.6 Tesla magnetic field. Identify the nuclide",
+        "question_id": 34909
+    }
+]
